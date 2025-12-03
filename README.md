@@ -111,4 +111,6 @@ double delayMs = 50 * speedFactor;
 
 ```
 
-*Authors*: Moad Chahti, Aymen Boubrik
+*Authors*: 
+### Moad Chahti
+### Aymen Boubrik
