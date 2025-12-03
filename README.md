@@ -99,16 +99,16 @@ A JavaFX-based visual application that animates various sorting algorithms in re
 
 ### Modifying Array Value Range
 Edit AppController.java and change the MAX_VALUE constant:
-java
+```java
 private static final int MAX_VALUE = 100; 
 
+```
 
 ### Adjusting Animation Speed
 The animation delay is calculated in animateNextStep() inside of AppController.java:
-java
+```java
 double delayMs = 50 * speedFactor; 
 
-
-
+```
 
 *Authors*: Moad Chahti, Aymen Boubrik
