@@ -26,19 +26,25 @@ A JavaFX-based visual application that animates various sorting algorithms in re
 
 1. *Clone the repository*
    bash
-   git clone <repository-url>
+   ```
+   git clone https://github.com/MoadVI/Sorting-Algorithm-Animator
    cd SortingAnimator
-   
 
-2. *Build the project*
+   ```
+
+3. *Build the project*
    bash
+   ```
    mvn clean install
-   
 
-3. *Run the application*
+   ```
+
+5. *Run the application*
    bash
+   ```
    mvn javafx:run
-   
+
+   ```
 
 ## Project Structure
 
