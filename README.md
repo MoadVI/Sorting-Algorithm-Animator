@@ -45,8 +45,7 @@ A JavaFX-based visual application that animates various sorting algorithms in re
 
 ## Project Structure
 
-
-
+```text
 ├── SortingAnimator
 │   ├── pom.xml
 │   └── src
@@ -70,6 +69,9 @@ A JavaFX-based visual application that animates various sorting algorithms in re
 │           └── resources
 │               └── sortinganimator
 │                   └── App.fxml
+
+```
+
 
 
 ## Sorting Algorithms
