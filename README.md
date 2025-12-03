@@ -27,6 +27,7 @@ A JavaFX-based visual application that animates various sorting algorithms in re
 1. *Clone the repository*
    ```
    git clone https://github.com/MoadVI/Sorting-Algorithm-Animator
+   cd Sorting-Algorithm-Animator
    cd SortingAnimator
 
    ```
